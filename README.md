@@ -32,7 +32,7 @@ eval "$(pyenv init -)"
   ```
   * install
   ```bash
-  $ pyenv install -v 3.9.5
+  $ pyenv install -v 3.x.x
   ```
   * list installed versions
   ```bash
@@ -40,11 +40,11 @@ eval "$(pyenv init -)"
   ```
   * set global version
   ```bash
-  $ pyenv global 3.9.5
+  $ pyenv global 3.x.x
   ```
   * set local version (in project directory)
   ```bash
-  $ pyenv local 3.9.5
+  $ pyenv local 3.x.x
   ```
  
 ### venv
