@@ -50,11 +50,11 @@ eval "$(pyenv init -)"
 ### [venv](https://docs.python.org/3/library/venv.html)
 * Creation of virtual environments
 ```bash
-python -m venv /path/to/new/virtual/environment
+python -m venv /path/to/env
 ```
 * Activate
 ```bash
-source name-of-env/bin/activate
+source /paht/to/env/name-of-env/bin/activate
 ```
 ### IDE
 * [VSCode with remote-wsl extension](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
