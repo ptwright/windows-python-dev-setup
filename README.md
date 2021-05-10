@@ -52,5 +52,9 @@ eval "$(pyenv init -)"
 ```bash
 python -m venv /path/to/new/virtual/environment
 ```
+* Activate
+```bash
+source name-of-env/bin/activate
+```
 ### IDE
 * [VSCode with remote-wsl extension](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
