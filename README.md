@@ -2,7 +2,7 @@
 
 ### WSL2
 * https://docs.microsoft.com/en-us/windows/wsl/install-win10
-* Using *Debian*, Windows Terminal
+* Using **Debian**, Windows Terminal
 
 ### Pyenv
 * install dependencies: 
@@ -46,4 +46,9 @@ eval "$(pyenv init -)"
   ```bash
   $ pyenv local 3.9.5
   ```
-  
+ 
+### venv
+* Creation of virtual environments
+```bash
+python -m venv /path/to/new/virtual/environment
+```
