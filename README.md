@@ -54,7 +54,7 @@ python -m venv /path/to/env
 ```
 * Activate
 ```bash
-source /paht/to/env/name-of-env/bin/activate
+source /path/to/env/name-of-env/bin/activate
 ```
 ### IDE
 * [VSCode with remote-wsl extension](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
