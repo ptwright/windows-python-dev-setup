@@ -56,8 +56,8 @@ python -m venv /path/to/env
 ```bash
 source /path/to/env/name-of-env/bin/activate
 ```
-* in ~ directory
-  * projects directory - code stored here
-  * .venv directory - virtual environments stored here
+* in '~' directory
+  * 'projects' sub-directory - code stored here
+  * '.venv' sub-directory - virtual environments stored here
 ### IDE
 * [VSCode with remote-wsl extension](https://code.visualstudio.com/blogs/2019/09/03/wsl2)
