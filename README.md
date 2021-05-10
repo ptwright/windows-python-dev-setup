@@ -4,7 +4,7 @@
 * https://docs.microsoft.com/en-us/windows/wsl/install-win10
 * Using **Debian**, Windows Terminal
 
-### Pyenv
+### [Pyenv](https://github.com/pyenv/pyenv)
 * install dependencies: 
 ```bash
 $ sudo apt install -y make build-essential libssl-dev zlib1g-dev \
@@ -47,7 +47,7 @@ eval "$(pyenv init -)"
   $ pyenv local 3.x.x
   ```
  
-### venv
+### [venv](https://docs.python.org/3/library/venv.html)
 * Creation of virtual environments
 ```bash
 python -m venv /path/to/new/virtual/environment
