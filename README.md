@@ -1,7 +1,7 @@
 # windows-python-dev-setup
 
 ### WSL2
-* https://docs.microsoft.com/en-us/windows/wsl/install-win10
+* https://docs.microsoft.com/en-us/windows/wsl/install-win10 - follow manual install instructions
 * Using **Debian**, Windows Terminal
 
 ### [Pyenv](https://github.com/pyenv/pyenv)
