@@ -7,13 +7,13 @@
 ### [Pyenv](https://github.com/pyenv/pyenv)
 * install dependencies: 
 ```bash
-$ sudo apt install -y make build-essential libssl-dev zlib1g-dev \
+sudo apt install -y make build-essential libssl-dev zlib1g-dev \
 libbz2-dev libreadline-dev libsqlite3-dev wget curl llvm libncurses5-dev \
 libncursesw5-dev xz-utils tk-dev libffi-dev liblzma-dev python-openssl
 ```
 * install pyenv:
 ```bash
-$ curl https://pyenv.run | bash
+curl https://pyenv.run | bash
 ```
 * configure ~/.profile (before any reference to ~/.bashrc if sourced)
 ```bash
