@@ -50,7 +50,7 @@ eval "$(pyenv init -)"
 ### [venv](https://docs.python.org/3/library/venv.html)
 * Creation of virtual environments
 ```bash
-python -m venv ./envs/venv-name
+python -m venv ~/.venv/venv-name
 ```
 * Activate
 ```bash
